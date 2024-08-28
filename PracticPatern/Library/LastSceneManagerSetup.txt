@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Singleton/Singleton.unity
+- path: Assets/Observer/Observer.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
